@@ -7,12 +7,18 @@
 
 
 
-- 🔭 I’m currently working on C and C++
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on C++
-- 🤔 I’m looking for help with HTML
-- 💬 Ask me about C
-- 📫 How to reach me: Email- tanwarpurnima05@gmail.com
+- 🔭 I’m currently working on 
+- C and C++
+- 🌱 I’m currently learning 
+- java
+- 👯 I’m looking to collaborate on 
+- C++
+- 🤔 I’m looking for help with
+-  HTML
+- 💬 Ask me about
+-  C language
+- 📫 How to reach me: 
+- Email- tanwarpurnima05@gmail.com
 - ⚡ Fun fact: 
 
 
