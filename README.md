@@ -1,11 +1,13 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/poornima-tanwar-988b461b2/" target="_blank"> Poornima Tanwar </a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
 
 A bit about Myself, I am <b>Poornima Tanwar</b> pursuing my <b>Computer Science Degree</b> currently in my 4th year, As of now,I have learned web-development and having knowledge of HTML,CSS & Javascript ,bootstrap etc. I am focused on <b>web development </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Paasionate Web Developer | Coder </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fanime-programming-wallpapers&psig=AOvVaw0Vc7dgCNGlfpX1BtSHONcC&ust=1684995052514000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4i4mmjf8CFQAAAAAdAAAAABAE" alt=" Coder Girl" width="500" height="600">
+Mo
 - 🔭 I’m currently working on **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web Develpoment Projects**
