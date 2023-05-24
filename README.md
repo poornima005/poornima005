@@ -1,27 +1,30 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+<h1 align="center">Hi 👋, I'm Poornima Tanwar</h1>
+<h3 align="center">A passionate Web developer from India</h3>
+<img src="https://wallpapercave.com/w/wp10475024">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poornima005" alt="poornima005" /></a> </p>
+
+- 🔭 I’m currently working on **MERN Stack**
+
+- 👯 I’m looking to collaborate on **Web Develpoment Projects**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **tanwarpurnima05@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tanwar_poornima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanwar_poornima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/poornima-tanwar-988b461b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poornima-tanwar-988b461b2/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_.purnima.____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.purnima.____/" height="30" width="40" /></a>
 </p>
-
-
-### Hola!  I am Poornima Tanwar. 👋
-
-
-
-- 🔭 I’m currently working on C and C++
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on C++
-- 🤔 I’m looking for help with HTML
-- 💬 Ask me about C language
-- 📫 How to reach me:  Email- tanwarpurnima05@gmail.com
-- ⚡ Fun fact: 
-
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornima005&show_icons=true&locale=en&layout=compact" alt="poornima005" /></p>
 
-  
-</p>
- 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poornima005&show_icons=true&locale=en" alt="poornima005" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poornima005&" alt="poornima005" /></p>
