@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Poornima Tanwar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img src="https://wallpapercave.com/w/wp10475024">
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/poornima-tanwar-988b461b2/" target="_blank"> Poornima Tanwar </a></h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poornima005" alt="poornima005" /></a> </p>
+A bit about Myself, I am <b>Poornima Tanwar</b> pursuing my <b>Computer Science Degree</b> currently in my 4th year, As of now,I have learned web-development and having knowledge of HTML,CSS & Javascript ,bootstrap etc. I am focused on <b>web development </b> but still, wish to explore many fields. ⚡
+
+<h3 align="center"> Paasionate Web Developer | Coder </h3>
 
 - 🔭 I’m currently working on **MERN Stack**
 
