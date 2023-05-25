@@ -6,7 +6,9 @@ A bit about Myself, I am <b>Poornima Tanwar</b> pursuing my <b>Computer Science 
 <h3 align="center"> Paasionate Web Developer | Coder </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
 <div align="center">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp10475024.jpg&tbnid=72wPFgG9bG6MqM&vet=12ahUKEwidk9r5to3_AhVr-nMBHeb3D1gQMygMegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fanime-programming-wallpapers&docid=KFDqeUDbgmABkM&w=1600&h=900&q=coder%20girl&hl=en&ved=2ahUKEwidk9r5to3_AhVr-nMBHeb3D1gQMygMegUIARDOAQ" alt=" Coder Girl" width="500" height="600">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" >
+<br><br><br>
+
   </div>
 <hr>
 - 🔭 I’m currently working on **MERN Stack**
@@ -36,10 +38,12 @@ A bit about Myself, I am <b>Poornima Tanwar</b> pursuing my <b>Computer Science 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>                                                                                                                                     
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+ <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
   <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  </p>
  <hr>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poornima005&show_icons=true&locale=en&layout=compact" alt="poornima005" /></p>
