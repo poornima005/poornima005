@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/poornima-tanwar-988b461b2/" target="_blank"> Poornima Tanwar </a></h1>
 
 
-A bit about Myself, I am <b>Poornima Tanwar</b> pursuing my <b>Computer Science Degree</b> currently in my 4th year, As of now,I have learned web-development and having knowledge of HTML,CSS & Javascript ,bootstrap etc. I am focused on <b>web development </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I have <b>Poornima Tanwar</b> done <b>Master's in Technology in Information Technology.</b> Currently I work as Programmer Analyst Trainee at Cognizant.I have learned web-development and having knowledge of React.js , Node.js, Java, HTML,CSS & Javascript ,bootstrap etc. I am focused on <b>web development </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Paasionate Web Developer | Coder </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poornima005&label=Profile%20views&color=0e75b6&style=flat" alt="poornima005" /> </p>
